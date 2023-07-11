@@ -1,6 +1,6 @@
 # Gold Price Prediction using ARIMA
 
-![Gold Price Prediction](prediction_chart.png)
+![Gold Price Prediction](ARIMA.png)
 
 This repository contains code and resources for predicting the future price of gold using the ARIMA (Autoregressive Integrated Moving Average) model. The ARIMA model is a widely used time series analysis technique that incorporates autoregression, differencing, and moving average components.
 
